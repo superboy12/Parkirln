@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195713838344",
+    "project_id": "parkirin-cf8b9",
+    "storage_bucket": "parkirin-cf8b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195713838344:android:15bd7dde41c43b372450bd",
+        "android_client_info": {
+          "package_name": "com.example.parkirin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMBTS9iswc05Hdx6zY8J8OB9pX77yUpfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195713838344:android:b63f625f68222d7e2450bd",
+        "android_client_info": {
+          "package_name": "com.smarkpark.unila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMBTS9iswc05Hdx6zY8J8OB9pX77yUpfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
